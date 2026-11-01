@@ -1,4 +1,3 @@
-# .github
 # AU Cyber Brief
 
 Short daily cyber security briefings with an Australian focus, published each weekday morning, and
